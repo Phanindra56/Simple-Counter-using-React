@@ -1,0 +1,27 @@
+.counterButton
+{
+    font-size :40px;
+    width:100px;
+    margin:30px;
+    color:white;
+    padding:5px;
+    border-radius:30px;
+    background-color:green;
+    border-color: black;
+    border-width: 5px;
+    margin-bottom: 0px;
+} 
+
+.resetButton
+{
+    font-size :40px;
+    width:200px;
+    margin-left:45%;
+    color:white;
+    padding:15px;
+    border-radius:30px;
+    background-color:purple;
+    border-color: black;
+    border-width: 5px;
+    margin-top: 50px;
+} 
